@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+streamlit
+nltk
+textblob
+matplotlib
+requests
+fuzzywuzzy
+python-Levenshtein
+openai
+streamlit-lottie
